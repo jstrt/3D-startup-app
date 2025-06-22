@@ -9,7 +9,8 @@ It uses animation libraries like AOS and Spline 3D to create a smooth and futuri
 
 ## ✨ Preview
 
-![MCmode Screenshot](preview.png)
+![preview](https://github.com/user-attachments/assets/0b18aba3-25c8-42ff-bfa6-fc57e1b21a28)
+
 
 ---
 
